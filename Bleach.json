@@ -4,14 +4,5 @@
   "artist": "Tite Kubo",
   "author": "Tite Kubo",
   "cover": "https://mangadex.org/covers/239d6260-d71f-43b0-afff-074e3619e3de/032cc781-43eb-4281-956c-7cf991dd0a6a.jpg",
-  "chapters": {
-    "188": {
-      "title": "Capítulo 188",
-      "volume": "22",
-      "last_updated": "1735856045",
-      "groups": {
-        "Las Noches": "/proxy/api/imgur/chapter/YKNChI1"
-      }
-    }
-  }
+  "chapters": {}
 }
