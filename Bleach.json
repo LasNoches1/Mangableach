@@ -1,6 +1,6 @@
 {
   "title": "Bleach",
-  "description": "Ichigo Kurosaki has always been able to see ghosts, but this ability doesn't change his life nearly as much as his close encounter with Rukia Kuchiki, a Soul Reaper and member of the mysterious Soul Society. While fighting a Hollow, an evil spirit that preys on humans who display psychic energy, Rukia attempts to lend Ichigo some of her powers so that he can save his family; but much to her surprise, Ichigo absorbs every last drop of her energy. Now a full-fledged Soul Reaper himself, Ichigo quickly learns that the world he inhabits is one full of dangerous spirits and, along with Rukia— who is slowly regaining her powers— it's Ichigo's job to protect the innocent from Hollows and help the spirits themselves find peace.",
+  "description": "Bleach acompanha a história de Ichigo Kurosaki, um adolescente que possui a habilidade de ver espíritos. Sua vida muda drasticamente quando conhece Rukia Kuchiki, uma Shinigami, que o envolve em um mundo sobrenatural repleto de batalhas contra Hollows (espíritos malignos). Ao transferir seus poderes para Ichigo, Rukia o torna um Shinigami Substituto, e juntos eles lutam para proteger os inocentes e manter o equilíbrio entre o mundo dos vivos e dos mortos.",
   "artist": "Tite Kubo",
   "author": "Tite Kubo",
   "cover": "https://mangadex.org/covers/239d6260-d71f-43b0-afff-074e3619e3de/032cc781-43eb-4281-956c-7cf991dd0a6a.jpg",
@@ -139,6 +139,78 @@
       "last_updated": "1736054715",
       "groups": {
         "Las Noches": "/proxy/api/imgur/chapter/fGXLPrQ"
+      }
+    },
+    "18": {
+      "title": "Vol.3 - Cap 18. 17/6 p.2 \"Can't Smile Don't Blame\"",
+      "volume": "3",
+      "last_updated": "1736104119",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/73RP5o5"
+      }
+    },
+    "19": {
+      "title": "Vol.3 - Cap 19. 17/6 p.3 \"Memories in the rain\"",
+      "volume": "3",
+      "last_updated": "1736104281",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/sgSk9PP"
+      }
+    },
+    "20": {
+      "title": "Vol.3 - Cap 20. 17/6 p.4 \"face again\"",
+      "volume": "3",
+      "last_updated": "1736104379",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/542zJ2e"
+      }
+    },
+    "21": {
+      "title": "Vol.3 - Cap 21. 17/6 p.5 \"Garoto Lutador\"",
+      "volume": "3",
+      "last_updated": "1736104486",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/lAkjeIk"
+      }
+    },
+    "22": {
+      "title": "Vol.3 - Cap 22. 17/6 p.6 \"Battle on Graveyard\"",
+      "volume": "3",
+      "last_updated": "1736104574",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/xSW1CV5"
+      }
+    },
+    "23": {
+      "title": "Vol.3 - Cap 23. 17/6 p.7 \"Intenção afiada, espada estúpida\"",
+      "volume": "3",
+      "last_updated": "1736104624",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/eWrvJJE"
+      }
+    },
+    "24": {
+      "title": "Vol.3 - Cap 24. 17/6 p.8 \"All One Way Sympathies\"",
+      "volume": "3",
+      "last_updated": "1736104701",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/XnvZWJS"
+      }
+    },
+    "25": {
+      "title": "Vol.3 - Cap 25. 17/6 p.9 \"Garoto Lutador 2\" (The Cigar Blue Mix)",
+      "volume": "3",
+      "last_updated": "1736105363",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/U5nNROQ"
+      }
+    },
+    "17.5": {
+      "title": "Vol.3 - Cap 17.5. 17 de junho",
+      "volume": "3",
+      "last_updated": "1736104029",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/9ecFacQ"
       }
     }
   }
