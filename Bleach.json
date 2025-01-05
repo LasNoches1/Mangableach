@@ -12,6 +12,14 @@
       "groups": {
         "Las Noches": "/proxy/api/imgur/chapter/UtAP04n"
       }
+    },
+    "2": {
+      "title": "Starter",
+      "volume": "1",
+      "last_updated": "1736035774",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/3PXQHeY"
+      }
     }
   }
 }
