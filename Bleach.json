@@ -493,6 +493,78 @@
         "Las Noches": "/proxy/api/imgur/chapter/PmYjJVX"
       }
     },
+    "62": {
+      "title": "Vol.8 - Cap 62. LESSON 2-2: BAD ENDIN' IN THE SHAFT",
+      "volume": "8",
+      "last_updated": "1746152201",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/siEI6yO"
+      }
+    },
+    "63": {
+      "title": "Vol.8 - Cap 63. Lesson 2-3: Innercircle Breakdown",
+      "volume": "8",
+      "last_updated": "1746152301",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/dawUcDO"
+      }
+    },
+    "64": {
+      "title": "Vol.8 -  Cap 64. BACK IN BLACK",
+      "volume": "8",
+      "last_updated": "1746152420",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/WbDVWEn"
+      }
+    },
+    "65": {
+      "title": "Vol.8 - Cap 65. Collisions",
+      "volume": "8",
+      "last_updated": "1746152476",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/tNnRWUs"
+      }
+    },
+    "66": {
+      "title": "Vol.8 - Cap 66. THE BLADE AND ME",
+      "volume": "8",
+      "last_updated": "1746152533",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/4MKa919"
+      }
+    },
+    "67": {
+      "title": "Vol.8 - Cap 67. End of Lessons",
+      "volume": "8",
+      "last_updated": "1746152603",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/OAmkP12"
+      }
+    },
+    "68": {
+      "title": "Vol.8 - Cap 68. As Últimas Férias de Verão ",
+      "volume": "8",
+      "last_updated": "1746152671",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/Z9gE3h2"
+      }
+    },
+    "69": {
+      "title": "Vol.8 - Cap 69. 25:00 gathering",
+      "volume": "8",
+      "last_updated": "1746152768",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/jQXmYKu"
+      }
+    },
+    "70": {
+      "title": "Vol.8 - Cap 70. Where Hollows Fear to Tread",
+      "volume": "8",
+      "last_updated": "1746152835",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/vGhV8rc"
+      }
+    },
     "17.5": {
       "title": "Vol.3 - Cap 17.5. 17 de junho",
       "volume": "3",
@@ -507,6 +579,14 @@
       "last_updated": "1746150614",
       "groups": {
         "Las Noches": "/proxy/api/imgur/chapter/AiOMr56"
+      }
+    },
+    "70.5": {
+      "title": "Vol.8 - Cap 70.5. RÁDIO-KON + Pool Popularity",
+      "volume": "8",
+      "last_updated": "1746152930",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/aFrDrV2"
       }
     }
   }
