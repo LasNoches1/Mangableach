@@ -421,12 +421,92 @@
         "Las Noches": "/proxy/api/imgur/chapter/2MTLzwn"
       }
     },
+    "53": {
+      "title": "Vol.7 - Cap 53. Nice to meet you, I will beat you",
+      "volume": "7",
+      "last_updated": "1746149739",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/Yd6XkKq"
+      }
+    },
+    "54": {
+      "title": "Vol.7 - Cap 54. O novato que nem pergunta o nome",
+      "volume": "7",
+      "last_updated": "1746149852",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/8eZhMRN"
+      }
+    },
+    "55": {
+      "title": "Vol.7 - Cap 55. SHUT",
+      "volume": "7",
+      "last_updated": "1746149950",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/H3vkLmG"
+      }
+    },
+    "56": {
+      "title": "Vol.7 - Cap 56. broken coda",
+      "volume": "7",
+      "last_updated": "1746150058",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/S7uluyi"
+      }
+    },
+    "57": {
+      "title": "Vol.7 - Cap 57. Unfinished July Rain",
+      "volume": "7",
+      "last_updated": "1746150185",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/a7D79fO"
+      }
+    },
+    "58": {
+      "title": "Vol.7 - Cap 58. blank",
+      "volume": "7",
+      "last_updated": "1746150256",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/UTR6huN"
+      }
+    },
+    "59": {
+      "title": "Vol.7 - Cap 59. Lesson 1: One Strike! + Jailed at Home",
+      "volume": "7",
+      "last_updated": "1746150341",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/4rLAGom"
+      }
+    },
+    "60": {
+      "title": "Vol.7 Cap 60. Lesson 1-2: DOWN!!",
+      "volume": "7",
+      "last_updated": "1746150436",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/BVIZzeM"
+      }
+    },
+    "61": {
+      "title": "Vol.7 Cap 61. Lesson 2: Shattered shaft",
+      "volume": "7",
+      "last_updated": "1746150524",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/PmYjJVX"
+      }
+    },
     "17.5": {
       "title": "Vol.3 - Cap 17.5. 17 de junho",
       "volume": "3",
       "last_updated": "1736104029",
       "groups": {
         "Las Noches": "/proxy/api/imgur/chapter/9ecFacQ"
+      }
+    },
+    "61.5": {
+      "title": "Vol.7 - Cap 61.5. RÁDIO-KON",
+      "volume": "7",
+      "last_updated": "1746150614",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/AiOMr56"
       }
     }
   }
