@@ -637,6 +637,78 @@
         "Las Noches": "/proxy/api/imgur/chapter/jhlmcIe"
       }
     },
+    "80": {
+      "title": "Vol.10 - Cap 80. The Shooting Star Project",
+      "volume": "10",
+      "last_updated": "1746290283",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/cMX9nDY"
+      }
+    },
+    "81": {
+      "title": "Vol.10 - Cap 81. Twelve Tone Rendezvous",
+      "volume": "10",
+      "last_updated": "1746290370",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/UI5359r"
+      }
+    },
+    "82": {
+      "title": "Vol.10 - Cap 82. Conflictable Composition",
+      "volume": "10",
+      "last_updated": "1746290442",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/G3uUwTU"
+      }
+    },
+    "83": {
+      "title": "Vol.10 - Cap 83. COME WITH ME",
+      "volume": "10",
+      "last_updated": "1746290638",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/JJJuAUg"
+      }
+    },
+    "84": {
+      "title": "Vol.10 - Cap 84. The Shooting Star Project 2 (Tatoo On The Sky)",
+      "volume": "10",
+      "last_updated": "1746290689",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/42gYvma"
+      }
+    },
+    "85": {
+      "title": "Vol.10 - Cap 85. INTRUDERZ 2 (Breakthrough the roof mix)",
+      "volume": "10",
+      "last_updated": "1746290793",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/8OvnHrC"
+      }
+    },
+    "86": {
+      "title": "Vol.10 - Cap 86. Making Good Relations, OK?",
+      "volume": "10",
+      "last_updated": "1746290880",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/4U3aav3"
+      }
+    },
+    "87": {
+      "title": "Vol.10 - Cap 87. Dancing With Spears",
+      "volume": "10",
+      "last_updated": "1746290945",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/E4TYZFh"
+      }
+    },
+    "88": {
+      "title": "Vol.10 - Cap 88. SO UNLUCKY WE ARE",
+      "volume": "10",
+      "last_updated": "1746291032",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/VEk9eRr"
+      }
+    },
     "17.5": {
       "title": "Vol.3 - Cap 17.5. 17 de junho",
       "volume": "3",
@@ -659,6 +731,14 @@
       "last_updated": "1746152930",
       "groups": {
         "Las Noches": "/proxy/api/imgur/chapter/aFrDrV2"
+      }
+    },
+    "88.5": {
+      "title": "Vol.10 - Cap 88.5. KARAKURA SUPER HEROES",
+      "volume": "10",
+      "last_updated": "1746291137",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/ujL6Sra"
       }
     }
   }
