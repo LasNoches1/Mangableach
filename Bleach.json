@@ -789,6 +789,78 @@
         "Las Noches": "/proxy/api/imgur/chapter/FHnAyFv"
       }
     },
+    "99": {
+      "title": "Vol.12 - Cap 99. Dead Black War Cloud",
+      "volume": "12",
+      "last_updated": "1746409989",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/irE2Uaq"
+      }
+    },
+    "100": {
+      "title": "Vol.12 - Cap 100. Como a flor de um penhasco",
+      "volume": "12",
+      "last_updated": "1746410045",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/6PWM7U9"
+      }
+    },
+    "101": {
+      "title": "Vol.12 - Cap 101. Split Under The Red Stalk",
+      "volume": "12",
+      "last_updated": "1746410097",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/4XnCaoQ"
+      }
+    },
+    "102": {
+      "title": "Vol.12 - Cap 102. Nobody Beats",
+      "volume": "12",
+      "last_updated": "1746410158",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/lZza4RL"
+      }
+    },
+    "103": {
+      "title": "Vol.12 - Cap 103. Dominion",
+      "volume": "12",
+      "last_updated": "1746410199",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/5RpmTRc"
+      }
+    },
+    "104": {
+      "title": "Vol.12 - Cap 104. The undead",
+      "volume": "12",
+      "last_updated": "1746410254",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/qWJnHoJ"
+      }
+    },
+    "105": {
+      "title": "Vol.12 - Cap 105. Springs, Springs, Meets The Tiger",
+      "volume": "12",
+      "last_updated": "1746410298",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/ziPts03"
+      }
+    },
+    "106": {
+      "title": "Vol.12 - Cap 106. Cause For Confront",
+      "volume": "12",
+      "last_updated": "1746410361",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/i9d7tRd"
+      }
+    },
+    "107": {
+      "title": "Vol.12 - Cap 107. Heat in Trust",
+      "volume": "12",
+      "last_updated": "1746410408",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/pEtu8z9"
+      }
+    },
     "17.5": {
       "title": "Vol.3 - Cap 17.5. 17 de junho",
       "volume": "3",
@@ -819,6 +891,14 @@
       "last_updated": "1746291137",
       "groups": {
         "Las Noches": "/proxy/api/imgur/chapter/ujL6Sra"
+      }
+    },
+    "107.5": {
+      "title": "Vol.12 - Cap 107.5. RÁDIO-KON + the untold stories",
+      "volume": "12",
+      "last_updated": "1746410472",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/xWhnF12"
       }
     }
   }
