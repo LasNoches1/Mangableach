@@ -861,6 +861,70 @@
         "Las Noches": "/proxy/api/imgur/chapter/pEtu8z9"
       }
     },
+    "108": {
+      "title": "Vol.13 - Cap 108. Time For Scare",
+      "volume": "13",
+      "last_updated": "1746502234",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/EDnhaQi"
+      }
+    },
+    "109": {
+      "title": "Vol.13 - Cap 109. Como um tigre que não pisa sobre as flores",
+      "volume": "13",
+      "last_updated": "1746502280",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/ZX1qKP7"
+      }
+    },
+    "110": {
+      "title": "Vol.13 - Cap 110. Dark Side of Universe",
+      "volume": "13",
+      "last_updated": "1746502334",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/Bqa5Nm5"
+      }
+    },
+    "111": {
+      "title": "Vol.13 - Cap 111. Black & White",
+      "volume": "13",
+      "last_updated": "1746502428",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/HdgH91c"
+      }
+    },
+    "112": {
+      "title": "Vol.13 - Cap 112. The Undead 2 (Rise & Craze)",
+      "volume": "13",
+      "last_updated": "1746502469",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/sQh1kTU"
+      }
+    },
+    "113": {
+      "title": "Vol.13 - Cap 113. The Undead 3 (Closing Frantica)",
+      "volume": "13",
+      "last_updated": "1746502526",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/nbhPljV"
+      }
+    },
+    "114": {
+      "title": "Vol.13 - Cap 114. Tudo sobre o mundo que desmorona",
+      "volume": "13",
+      "last_updated": "1746502575",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/OKJaVB5"
+      }
+    },
+    "115": {
+      "title": "Vol.13 - Cap 115. Remnant",
+      "volume": "13",
+      "last_updated": "1746502628",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/aqoBMy3"
+      }
+    },
     "17.5": {
       "title": "Vol.3 - Cap 17.5. 17 de junho",
       "volume": "3",
@@ -899,6 +963,14 @@
       "last_updated": "1746410472",
       "groups": {
         "Las Noches": "/proxy/api/imgur/chapter/xWhnF12"
+      }
+    },
+    "115.5": {
+      "title": "Vol.13 - Cap 115.5. Popularity Pool & Data",
+      "volume": "13",
+      "last_updated": "1746502667",
+      "groups": {
+        "Las Noches": "/proxy/api/imgur/chapter/Z8PXTvj"
       }
     }
   }
